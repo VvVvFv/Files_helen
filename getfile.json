@@ -4,15 +4,15 @@
 
 "plugins_": {
 
-"AddedMe.lua":"- امر منو ضافني",
+"AddedMe.lua":"- منو ضافني",
 
-"ChengName.lua":"- امر شو مغير اسمك",
+"ChengName.lua":"- شو مغير اسمك",
 
 "ReplyBot.lua":"- ردود البوت",
 
-"SehUser.lua":"- صيح فلان",
+"SehUser.lua":"- صيح",
 
-"TagAdmin.lua":"- امر تاك للادمنيه",
+"TagAdmin.lua":"- تاك للادمنيه",
 
 }
 
