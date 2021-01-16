@@ -3,6 +3,13 @@
 "result": true,
 
 "plugins_": {
+
+"TwhName.lua":"https://t.me/KS_KK",
+
+"MutedName.lua":"https://t.me/KS_KK",
+
+"AddedMe.lua":"https://t.me/KS_KK",
+
 "ChengName.lua":"https://t.me/KS_KK",
 
 "ChengPhoto.lua":"https://t.me/KS_KK",
@@ -13,7 +20,10 @@
 
 "SehUser.lua":"https://t.me/KS_KK",
 
+"SharGroup.lua":"https://t.me/KS_KK",
+
 "TagAdmin.lua":"https://t.me/KS_KK",
 
-}}
+}
 
+}
