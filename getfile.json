@@ -4,25 +4,15 @@
 
 "plugins_": {
 
-"TwhName.lua":"https://t.me/KS_KK",
+"AddedMe.lua":"- امر منو ضافني",
 
-"MutedName.lua":"https://t.me/KS_KK",
+"ChengName.lua":"- امر شو مغير اسمك",
 
-"AddedMe.lua":"https://t.me/KS_KK",
+"ReplyBot.lua":"- ردود البوت",
 
-"ChengName.lua":"https://t.me/KS_KK",
+"SehUser.lua":"- صيح فلان",
 
-"ChengPhoto.lua":"https://t.me/KS_KK",
-
-"ChengUser.lua":"https://t.me/KS_KK",
-
-"ReplyBot.lua":"https://t.me/KS_KK",
-
-"SehUser.lua":"https://t.me/KS_KK",
-
-"SharGroup.lua":"https://t.me/KS_KK",
-
-"TagAdmin.lua":"https://t.me/KS_KK",
+"TagAdmin.lua":"- امر تاك للادمنيه",
 
 }
 
